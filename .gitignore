@@ -1,0 +1,14 @@
+# Gradle generated files
+.gradle/
+build/
+
+# Kotlin generated files
+.kotlin/
+
+# macOS
+.DS_Store
+
+# IDE files
+.idea/
+*.iml
+.vscode/
